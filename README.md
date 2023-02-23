@@ -22,16 +22,7 @@ modify-output-of-many-types.ipynb
 https://raw.githubusercontent.com/AllenInstitute/AllenSDK/f50680db4f32c9459c9bafba6babcf318c9718a5/doc_template/examples_root/examples/internal/Lims%20Behavior%20Project%20Cache.ipynb
 https://raw.githubusercontent.com/AllenInstitute/AllenSDK/60737a47da0c89368e46d58965bc9abc2d0acf62/doc_template/examples_root/examples/internal/Lims%20Behavior%20Project%20Cache.ipynb
 
-
-
-
-
-
-
-
-
-
-### Hi I am a header and here it is
+### Hi I am a header
 - one
 - change this here
 - three
